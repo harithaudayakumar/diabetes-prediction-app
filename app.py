@@ -3,7 +3,7 @@ import numpy as np
 
 st.set_page_config(
     page_title="Diabetes Risk Prediction",
-    page_icon="🩺",
+     page_icon="🩺",
     layout="wide"
 )
 
@@ -134,4 +134,5 @@ st.markdown("""
 <p style='color:grey'>Developed by Haritha U | Machine Learning Portfolio Project</p>
 </center>
 """, unsafe_allow_html=True)
+
 
