@@ -131,6 +131,7 @@ with col2:
 st.markdown("""
 <hr>
 <center>
-<p style='color:grey'>Developed by Aakash Rajaram | Machine Learning Portfolio Project</p>
+<p style='color:grey'>Developed by Haritha U | Machine Learning Portfolio Project</p>
 </center>
 """, unsafe_allow_html=True)
+
